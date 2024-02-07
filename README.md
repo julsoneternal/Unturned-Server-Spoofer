@@ -17,3 +17,9 @@ Usage:
 
 Disclaimer:
 This tool is intended for educational purposes only. Use it responsibly and respect the terms of service for the game.
+
+
+Credits
+cae
+julson
+0xc
