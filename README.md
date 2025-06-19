@@ -1,5 +1,7 @@
 Unturned Server Hwid Spoofer
 
+*OUTDATED!*
+
 Description:
 This tool allows users to spoof their hardware identification (HWID) for Unturned. It modifies the registry GUID, game cloud hash, and stored game information to help users avoid bans.
 
